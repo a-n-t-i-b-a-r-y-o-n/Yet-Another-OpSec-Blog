@@ -55,7 +55,7 @@ Public key infrastructure answers this by having a trusted third party - a “Ce
 
 As you can see, PKI is not some niche cryptography topic for arcane, oblique security nerds. It’s actually vital for security operations. It is the mechanism by which the entire modern trust model - secure web traffic, verified software, authenticated services, signed evidence - actually functions. Understanding how PKI is built, and how it can fail, is a prerequisite for operating it securely, for detecting when it is being abused, and for responding when it breaks.
 
-Since this concept is around us at all time, securing all manner of operations, it seemed like a good topic to discuss in my blog. This post is the first of many that will explain PKI and encryption w.r.t. security operations. I hope to publish at least one a week!
+Since this concept is around us at all time, securing all manner of operations, it seemed like a good topic to discuss in my ✨shiny✨ new OpSec blog. This post is the first of many that will explain PKI and encryption w.r.t. security operations. I hope to publish at least one per week, maybe more!
 
 Stay tuned for more!
 
@@ -67,3 +67,13 @@ Here's some good jump-off points for further reading on this stuff:
 * [Wikipedia: Symmetric-key algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 * [Wikipedia: Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 * [Wikipedia: One-way function](https://en.wikipedia.org/wiki/One-way_function)
+
+
+## About the author
+
+Hi there! 👋
+
+My name is Braden Wright, and I'm software and security engineer with 5+ years of security engineering experience and more than double that in software. I spend my work days building security infrastructure and tooling, spotting ne'erdowells in SIEM logs, and injecting security into the software development process. I spend my days off writing software and firmware, prototyping hardware boards plus 3D modelling for their enclosures, and trying to "touch grass" in local hiking trails or state parks.
+
+Despite the advent of generative AI, I still enjoy writing longform text and software by hand, key-by-key. So, I'm starting this little blog to document things I've learned in the industry. Hope you enjoy!
+
