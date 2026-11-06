@@ -3,8 +3,11 @@ This is my personal blog, where I post tips, guides, rants, etc. about operation
 
 Hopefully you find it useful!
 
+Please don't mind the lack of prettiness and styling.  
+I may work on that in the future, but for now I'm focused on providing meaningful content.
+
 ---
 
-## Pages
+## Contents
 
-[Test Page #1](./blog/test-page.md)
+[Intro: Asymmetric Cryptography in Security Operations](./blog/ecc_pki_post_1.md)
