@@ -1,6 +1,6 @@
 # Intro: Key Pairs and Encryption
 
-The previous post established why exactly asymmetric cryptography matters to security operations. In this post, we’ll begin to dive deeper into the mechanics. We’ll look at how a key pair is created, how encryption actually works in practice. There’s actually two main uses of asymmetric keypairs – encryption/decryption and signing – so this post starts by discussing the former.
+The previous post established why exactly asymmetric cryptography matters to security operations. In this post, we’ll begin to dive deeper by looking at how the concepts are applied. Together, we’ll look at how a key pair is created and how encryption actually works in practice. There’s actually two main uses of asymmetric keypairs – encryption/decryption and signing – so this post starts by discussing the former.
 
 We’re still at the conceptual level here so, while we won’t get into technical details and OpenSSL commandline invocations today, rest assured that they’re coming.
 
