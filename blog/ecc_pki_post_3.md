@@ -21,7 +21,7 @@ Note that a digital signature is *not* an encryption of the message. It is a sho
 
 The signature could only have been produced by someone holding the matching private key
 
-1. **Integrity**
+2. **Integrity**
 
 If even a single solitary bit of the message changes after signing, verification would not succeed.
 
