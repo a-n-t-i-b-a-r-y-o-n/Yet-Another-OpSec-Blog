@@ -1,6 +1,6 @@
 # Intro: Digital Signatures
 
-So far, we’ve seen why asymmetric cryptography matters w.r.t. security operations. In the last post, we looked at how to generate asymmetric key pairs and use them for encryption. In this post, we’ll look at how digital signatures work to ensure the integrity of received encrypted messages
+So far, we’ve seen why asymmetric cryptography matters w.r.t. security operations. In the last post, we looked at how to generate asymmetric key pairs and use them for encryption. In this post, we’ll look at how digital signatures work to ensure the integrity of received encrypted messages.
 
 Like I said in the previous post, it’s surprisingly common for folks to mix up encryption and signing in practice. Not the *concepts themselves* per se, but people definitely mix up the way in which the keys are used.
 
