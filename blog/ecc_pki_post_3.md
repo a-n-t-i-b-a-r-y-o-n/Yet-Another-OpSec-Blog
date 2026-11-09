@@ -8,7 +8,7 @@ The amount of times I’ve worked with experienced engineers who claim their SSH
 
 ## Signing for authentication and integrity
 
-\> A quick aside for any nontechnicals in the crowd: “Authorization” is what someone/something is or isn’t allowed to do. “Authentication” is proving that they are who they say they are. “Authentification” is a nonsense word made up by project managers.
+> A quick aside for any nontechnicals in the crowd: “Authorization” is what someone/something is or isn’t allowed to do. “Authentication” is proving that they are who they say they are. “Authentification” is a nonsense word made up by project managers.
 
 So, signing uses the key pair in the diametrically opposite direction from encryption, which is where people end up getting confused:
 
